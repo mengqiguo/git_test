@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.2" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="29.3.2" pages="2">
   <diagram name="第 1 页" id="6RbFl2PVTpY-QW_9Vscs">
-    <mxGraphModel dx="1008" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-3" edge="1" parent="1" source="F28LCja8Oj84i7Mm8hZ7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="F28LCja8Oj84i7Mm8hZ7-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="传感器模块" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-2" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="感知模块" vertex="1">
+          <mxGeometry height="60" width="120" x="540" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="地图与定位模块" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="预测模块" vertex="1">
+          <mxGeometry height="60" width="120" x="710" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="地图与定位模块" vertex="1">
+          <mxGeometry height="60" width="120" x="850" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="控制模块" vertex="1">
+          <mxGeometry height="60" width="120" x="870" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="F28LCja8Oj84i7Mm8hZ7-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="控制模块" vertex="1">
+          <mxGeometry height="60" width="120" x="660" y="400" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
